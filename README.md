@@ -16,9 +16,9 @@
   <a href = "https://linkedin.com/in/diogo-brasil-da-silva-b55482257" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%233366FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-### Studying in this moment:
+### My Skills:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,vite,maven&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,anaconda,java,spring,maven,js,nodejs,express,html,css,react,vite,styledcomponents&perline=8" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
