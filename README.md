@@ -18,7 +18,7 @@
 
 ### My Skills:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,anaconda,java,spring,maven,js,nodejs,express,html,css,react,vite,styledcomponents,mysql,sqlite,postgres&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,js,nodejs,express,react,vite,styledcomponents,mysql,sqlite,postgres&perline=8" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
